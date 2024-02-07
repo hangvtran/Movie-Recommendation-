@@ -20,5 +20,5 @@ Prediction Generation: Generates predictions for submission.\
 Setup Environment:
 
 Ensure you have Jupyter Notebook installed.\
-Install required packages by running 
-```!pip install <your library>``` in your jupyternotebook which includes pandas, numpy, scikit-learn, nltk, scipy, and jupyter
+Install required packages by running\
+```!pip install <your library>``` \in your jupyternotebook which includes pandas, numpy, scikit-learn, nltk, scipy, and jupyter
