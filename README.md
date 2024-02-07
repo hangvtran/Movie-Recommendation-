@@ -6,7 +6,7 @@ The project is structured as follows:
 
 - data/movies_metadata.csv: The metadata for movies.
 - data/test.csv: The test dataset.
-- data/train.csv: The training dataset.
+- data/train.csv: The train dataset.
 - Movie Recommendation System.ipynb: Jupyter notebook with all the preprocessing, model training, and prediction code.
 
 ## Features
