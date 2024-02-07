@@ -19,7 +19,7 @@ The project is structured as follows:
 ## How to Use
 - Setup Environment:
 
-1.Ensure you have Jupyter Notebook installed.\
-2.Install required packages by running\
+1. Ensure you have Jupyter Notebook installed.\
+2. Install required packages by running\
 ```!pip install <your library>``` \
 in your Jupyter which includes pandas, numpy, scikit-learn, nltk, scipy, and jupyter
