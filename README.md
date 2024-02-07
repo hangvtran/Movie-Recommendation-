@@ -17,7 +17,7 @@ The project is structured as follows:
 - Prediction Generation: Generates predictions for submission.
 
 ## How to Use
-- Setup Environment:
+Setup Environment:
 
 1. Ensure you have Jupyter Notebook installed.\
 2. Install required packages by running\
