@@ -21,7 +21,5 @@ Setup Environment:
 
 Ensure you have Jupyter Notebook installed.\
 Install required packages by running\
-```
-!pip install <your library>
-``` \
+```!pip install <your library>``` \
 in your jupyternotebook which includes pandas, numpy, scikit-learn, nltk, scipy, and jupyter
