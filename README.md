@@ -10,16 +10,16 @@ The project is structured as follows:
 - Movie Recommendation System.ipynb: Jupyter notebook with all the preprocessing, model training, and prediction code.
 
 ## Features
-Data Preprocessing: Includes functions for cleaning and preparing the data for modeling.\
-Feature Engineering: Techniques to extract and select relevant features from the movie metadata.\
-Model Training: Implementation of various machine learning models with scikit-learn.\
-Model Evaluation: Code for evaluating models and selecting the best performer based on RMSE (Root Mean Square Error).\
-Prediction Generation: Generates predictions for submission.\
+- Data Preprocessing: Includes functions for cleaning and preparing the data for modeling.
+- Feature Engineering: Techniques to extract and select relevant features from the movie metadata.
+- Model Training: Implementation of various machine learning models with scikit-learn.
+- Model Evaluation: Code for evaluating models and selecting the best performer based on RMSE (Root Mean Square Error).
+- Prediction Generation: Generates predictions for submission.
 
 ## How to Use
-Setup Environment:
+- Setup Environment:
 
-Ensure you have Jupyter Notebook installed.\
-Install required packages by running\
+1.Ensure you have Jupyter Notebook installed.\
+2.Install required packages by running\
 ```!pip install <your library>``` \
 in your Jupyter which includes pandas, numpy, scikit-learn, nltk, scipy, and jupyter
